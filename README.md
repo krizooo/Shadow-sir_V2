@@ -69,7 +69,7 @@ the user is responsible.
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@aju0011/Ajuserv2-Qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shadow-sir-v1/Shadow-sir_v2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/krizooo/Shadow-sir_V2)
      </div>
 <br>
 <br >
@@ -83,8 +83,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Shadow-sir-v1/Shadow-sir_v2
-$ cd Shadow-sir_v2
+$ git clone https://github.com/krizooo/Shadow-sir_V2
+$ cd krizooo
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -93,8 +93,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Shadow-sir-v1/Shadow-sir_v2
-$ cd Shadow-sir_v2
+$ git clone https://github.com/krizooo/Shadow-sir_V2
+$ cd krizoo
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -105,7 +105,7 @@ $ node bot.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-<a href="https://chat.whatsapp.com/E5UG3iYJ5d62LrTdZq7pXP"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://chat.whatsapp.com/E5UG3iYJd62LrTdZq7pXP"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
   <div align="center">
 
     
